@@ -1,9 +1,9 @@
 # Recommend-System-in-China-Telecom
-# 双塔推荐系统
 
 基于PyTorch的双塔深度学习推荐模型，实现用户-商品匹配预测
 
-![双塔模型结构图](https://miro.medium.com/max/1400/1*5h2y4QhQY9vWk1qk5QjJ0g.png)
+![双塔模型结构图]![image](https://github.com/user-attachments/assets/88acd22c-9bb9-4fb4-913a-abe30f22fc35)
+
 
 ## 项目特点
 
